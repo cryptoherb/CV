@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Herbi CV
 
-You can use the [editor on GitHub](https://github.com/cryptoherb/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+mid 20s, based in Europe (UTC + 1)
 
-### Markdown
+Crypto since 16
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
