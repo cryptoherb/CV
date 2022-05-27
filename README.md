@@ -46,6 +46,3 @@ French: 			basic communication skills<br/>
 Mandarin Chinese:		basic communication skills<br/>
 <br/>
 
-<h4>Links: </h4>
-LooksRare: 			https://looksrare.org/accounts/0x52713267fe99e268a3ce0b1a84c3d3dbc7c47f21<br/>
-Gallery: 			https://oncyber.io/new-beginnings<br/>
